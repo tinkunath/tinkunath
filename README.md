@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Tinku Nath</h1>
 <h3 align="center">Love to learn codesss </> </></h3>
 
-- 🔭 I’m currently studying  **MCA **
+- 🔭 I’m currently studying in MCA
 
 - 👨‍💻 Familiar with **HTML / CSS / JS**
 
